@@ -1,4 +1,4 @@
-# Medical Operations Dashboard — Team B Batch 1
+# Medical Operations Dashboard 
 
 ## Milestone 1 — Work Completed
 
